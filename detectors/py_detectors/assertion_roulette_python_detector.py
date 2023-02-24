@@ -91,4 +91,6 @@ class AssertionRoulettePythonDetector(AntiPatternDetector ):
             anti_pattern.path = file_path
             anti_pattern.project_name = project_name
             anti_pattern.antipattern_count = self.__anti_pattern_count
+
+#here is my change in the file
             
